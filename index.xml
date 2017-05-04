@@ -6,10 +6,28 @@
     <description>Recent content on SongFoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Apr 2017 12:55:20 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 21:03:30 -0700</lastBuildDate>
     
 	<atom:link href="http://songfoo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>questionnaire</title>
+      <link>http://songfoo.com/questionnaire/</link>
+      <pubDate>Wed, 03 May 2017 21:03:30 -0700</pubDate>
+      
+      <guid>http://songfoo.com/questionnaire/</guid>
+      <description>Loading... </description>
+    </item>
+    
+    <item>
+      <title>questionnaire</title>
+      <link>http://songfoo.com/services/questionnaire/</link>
+      <pubDate>Wed, 03 May 2017 21:03:30 -0700</pubDate>
+      
+      <guid>http://songfoo.com/services/questionnaire/</guid>
+      <description>Loading... </description>
+    </item>
     
     <item>
       <title>FAQ</title>
